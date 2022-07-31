@@ -1,4 +1,5 @@
 Készült: IntelliJ IDEA 2020.3.2
+Dátum: 2021. 04. 29.
 JDK verzió: 14.0.2
 OS: Win 10
 Név: JSlender: The eight pages
