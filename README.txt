@@ -6,7 +6,7 @@ Név: JSlender: The eight pages
 
 A src mappán belül találsz csomagokat, mindegyik egy-egy objektumtípust tartalmaz.
 A játék indításához a Main csomagban lévő Main osztály Main metódusát kell futtatni.
-A pálya minden esetben random generálódik, saját betöltésére sajnos nincs lehetőség.
+A pálya minden esetben random generálódik.
 A JavaDoc dokumentáció a docs/index.html fájl.
 
 A pálya elemei:
